@@ -12,3 +12,5 @@ int main() {
     printf("OK %d\n", tableau[5]);
     return 0;
 }
+
+// Une variable n'est jamais utilisée (ici le int i = 12;)
