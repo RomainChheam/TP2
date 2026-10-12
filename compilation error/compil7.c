@@ -13,4 +13,4 @@ int main() {
     return 0;
 }
 
-// Une variable n'est jamais utilisée (ici le int i = 12;)
+// Une variable n'est jamais utilisée (ici le int i = 12;) Avec le tableau[5] qui n'est jamais défini
