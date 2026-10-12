@@ -6,6 +6,9 @@ int main() {
     s[1] = 'e';
     s[2] = 'y';
     s[3] = '!';
+    s[4] = '\0';
     printf("%s\n", s); 
     return 0;
 }
+
+// je vois pas trop l'erreur
